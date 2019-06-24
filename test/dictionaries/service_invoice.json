@@ -1,0 +1,49 @@
+{
+  "borrower": {
+    "type": "Undefined",
+    "name": "string",
+    "federalTaxNumber": 0,
+    "municipalTaxNumber": "string",
+    "email": "junior@unhideschool.com",
+    "address": {
+      "country": "BR",
+      "postalCode": "59570000",
+      "street": "Rua Orlando Max",
+      "number": "273",
+      "additionalInformation": "string",
+      "district": "string",
+      "city": {
+        "code": "string",
+        "name": "Ceará-Mirim"
+      },
+      "state": "string"
+    }
+  },
+  "cityServiceCode": "",
+  "federalServiceCode": "SP",
+  "cnaeCode": "82.30-0-01",
+  "description": "string",
+  "servicesAmount": 50,
+  "rpsSerialNumber": "string",
+  "issuedOn": "2019-06-12T16:57:21.147Z",
+  "rpsNumber": 2250,
+  "taxationType": "None",
+  "issRate": 0,
+  "issTaxAmount": 0,
+  "deductionsAmount": 0,
+  "discountUnconditionedAmount": 0,
+  "discountConditionedAmount": 0,
+  "irAmountWithheld": 0,
+  "pisAmountWithheld": 0,
+  "cofinsAmountWithheld": 0,
+  "csllAmountWithheld": 0,
+  "inssAmountWithheld": 0,
+  "issAmountWithheld": 0,
+  "othersAmountWithheld": 0,
+  "approximateTax": {
+    "source": "string",
+    "version": "string",
+    "totalRate": 0
+  },
+  "additionalInformation": "string"
+}

@@ -1,0 +1,1 @@
+from nfeio import resource
